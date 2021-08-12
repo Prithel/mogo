@@ -1,0 +1,629 @@
+
+/* Responsive media queries code */
+
+ @media (min-width: 320px) and (max-width: 480px){
+
+.banner .banner-title h2 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.banner .banner-title h1 {
+    font-size: 45px;
+}
+.banner .inner-btn .btn-light {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.banner .banner-options .options .btn-light {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 5px;
+    font-size: 14px;
+}
+.banner .banner-options .options .btn-light span {
+    font-size: 13px;
+}
+.about-heading h2 {
+    font-size: 30px;
+}
+.about-heading h1 {
+    font-size: 35px;
+}
+.about-heading p {
+    font-size: 14px;
+    margin: 0px 3px;
+}
+.porfolio .item:hover .item-hover {
+    margin: 12px 0px 7px 0px;
+}
+.numbers .number-inner h6 {
+    font-size: 14px;
+}
+.numbers .number-inner {
+    padding: 4px 0px;
+    border-left: none;
+}
+.numbers .cl5 .number-inner {
+    border-right: none;
+}
+.services .heading-service h2 {
+    font-size: 30px;
+}
+.services .heading-service h1 {
+    font-size: 33px;
+}
+
+.services .cards {
+    padding: 10px 0px;
+    border-bottom: none;
+}
+.services .cards .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cards .col-md-10 h4 {
+    padding: 0px 6px;
+}
+.services .cards .col-md-10 p {
+    padding: 0px 6px;
+}
+.services .cardss .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cardss .col-md-10 h4 {
+    padding: 0px 6px;
+}
+.services .cardss .col-md-10 p {
+    padding: 0px 6px;
+}
+.unique .heading-unique h2 {
+    font-size: 30px;
+}
+.unique .heading-unique h1 {
+    font-size: 35px;
+}
+.service-heading h2 {
+    font-size: 30px;
+}
+.service-heading h1 {
+    font-size: 33px;
+}
+.service-heading p {
+    margin: 0px 5px;
+}
+.service .info-pic img {
+    width: 100%;
+    padding-bottom: 25px;
+}
+.slider .slider-pic {
+    text-align: center;
+    padding-bottom: 16px;
+}
+.slider .pera p {
+    font-size: 14px;
+}
+.our-team .our-team-heading h2 {
+    font-size: 30px;
+
+}
+.our-team .our-team-heading h1 {
+    font-size: 35px;
+}
+.our-team .our-team-heading p {
+    margin: 0px 5px;
+}
+.our-team .item {
+    margin: 0px 0px;
+}
+.our-team .item .item-hover {
+    width: 100%;
+    height: 95%;
+    left: 1px;
+    top: 0px;
+}
+.work .work-heading h2 {
+    font-size: 30px;
+}
+.work .work-heading h1 {
+    font-size: 31px;
+}
+.work .work-heading p {
+    margin: 0px 5px;
+    padding-bottom: 20px;
+}
+.works .item-hover {
+    top: 0px;
+    left: 0px;
+    right: -27px;
+    bottom: 0;
+}
+.works .item-hover h6 {
+    left: 22%;
+    top: 43%;
+}
+.second-slider .slider-pic {
+    text-align: center;
+}
+.second-slider .pera p {
+    font-size: 14px;
+}
+.people .people-heading h2 {
+    font-size: 30px;
+}
+.people .people-heading h1 {
+    font-size: 33px;
+}
+.people .people-info .chobi img {
+    width: 25%;
+    padding-bottom: 10px;
+}
+.people .people-info .people-name p {
+    font-size: 14px;
+}
+.blog .blog-heading h2 {
+    font-size: 30px;
+}
+.blog .blog-heading h1 {
+    font-size: 35px;
+}
+.map {
+    height: 24vh;
+
+}
+.footer .instagram-photos {
+    padding: 0px 0px;
+    margin: 2px 0px;
+}
+
+.footer .followers .btn-light {
+    color: #fff;
+    background-color: #95e1d3;
+    border-color: #f8f9fa;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 7px 19px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+.footer .col-md-3 img {
+    width: 50%;
+    padding: 20px 0px;
+    text-align: -webkit-right;
+    margin: 0px 0px;
+}
+.footer .col-md-9 {
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+
+
+.banner .banner-title h2 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.banner .banner-title h1 {
+    font-size: 45px;
+}
+.banner .inner-btn .btn-light {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.banner .banner-options .options .btn-light {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 5px;
+    font-size: 14px;
+}
+.banner .banner-options .options .btn-light span {
+    font-size: 13px;
+}
+.about-heading h2 {
+    font-size: 30px;
+}
+.about-heading h1 {
+    font-size: 35px;
+}
+.about-heading p {
+    font-size: 14px;
+    margin: 0px 3px;
+}
+.porfolio .item:hover .item-hover {
+    margin: 12px 0px 7px 0px;
+}
+.numbers .number-inner h6 {
+    font-size: 14px;
+}
+.numbers .number-inner {
+    padding: 4px 0px;
+    border-left: none;
+}
+.numbers .cl5 .number-inner {
+    border-right: none;
+}
+.services .heading-service h2 {
+    font-size: 30px;
+}
+.services .heading-service h1 {
+    font-size: 33px;
+}
+
+.services .cards {
+    padding: 10px 0px;
+    border-bottom: none;
+}
+.services .cards .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cards .col-md-10 h4 {
+    padding: 0px 6px;
+}
+.services .cards .col-md-10 p {
+    padding: 0px 6px;
+}
+.services .cardss .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cardss .col-md-10 h4 {
+    padding: 0px 6px;
+}
+.services .cardss .col-md-10 p {
+    padding: 0px 6px;
+}
+.unique .heading-unique h2 {
+    font-size: 30px;
+}
+.unique .heading-unique h1 {
+    font-size: 35px;
+}
+.service-heading h2 {
+    font-size: 30px;
+}
+.service-heading h1 {
+    font-size: 33px;
+}
+.service-heading p {
+    margin: 0px 5px;
+}
+.service .info-pic img {
+    width: 100%;
+    padding-bottom: 25px;
+}
+.slider .slider-pic {
+    text-align: center;
+    padding-bottom: 16px;
+}
+.slider .pera p {
+    font-size: 14px;
+}
+.our-team .our-team-heading h2 {
+    font-size: 30px;
+
+}
+.our-team .our-team-heading h1 {
+    font-size: 35px;
+}
+.our-team .our-team-heading p {
+    margin: 0px 5px;
+}
+.our-team .item {
+    margin: 0px 0px;
+}
+.our-team .item .item-hover {
+    width: 100%;
+    height: 95%;
+    left: 1px;
+    top: 0px;
+}
+.work .work-heading h2 {
+    font-size: 30px;
+}
+.work .work-heading h1 {
+    font-size: 31px;
+}
+.work .work-heading p {
+    margin: 0px 5px;
+    padding-bottom: 20px;
+}
+.works .item-hover {
+    top: 0px;
+    left: 0px;
+    right: -27px;
+    bottom: 0;
+}
+.works .item-hover h6 {
+    left: 22%;
+    top: 43%;
+}
+.second-slider .slider-pic {
+    text-align: center;
+}
+.second-slider .pera p {
+    font-size: 14px;
+}
+.people .people-heading h2 {
+    font-size: 30px;
+}
+.people .people-heading h1 {
+    font-size: 33px;
+}
+.people .people-info .chobi img {
+    width: 25%;
+    padding-bottom: 10px;
+}
+.people .people-info .people-name p {
+    font-size: 14px;
+}
+.blog .blog-heading h2 {
+    font-size: 30px;
+}
+.blog .blog-heading h1 {
+    font-size: 35px;
+}
+.map {
+    height: 24vh;
+
+}
+.footer .instagram-photos {
+    padding: 0px 0px;
+    margin: 2px 0px;
+}
+
+.footer .followers .btn-light {
+    color: #fff;
+    background-color: #95e1d3;
+    border-color: #f8f9fa;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 7px 19px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+
+.footer .col-md-3 img {
+    width: 50%;
+    padding: 20px 0px;
+    text-align: -webkit-right;
+    margin: 0px 0px;
+}
+.footer .col-md-9 {
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 992px){
+.banner .banner-title {
+    padding-top: 25px;
+}
+.banner .banner-title h2 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.banner .banner-title h1 {
+    font-size: 45px;
+}
+.banner .inner-btn .btn-light {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.banner .banner-options .options .btn-light {
+    padding: 0px 30px 0px 0px;
+}
+.banner .banner-options .options .btn-light span {
+    font-size: 13px;
+}
+.about-heading {
+    padding: 10px 0px;
+}
+.about-heading h2 {
+    font-size: 30px;
+}
+.about-heading h1 {
+    font-size: 35px;
+}
+.about-heading p {
+    font-size: 14px;
+    margin: 0px 3px;
+}
+.porfolio .item:hover .item-hover {
+    margin: 12px 0px 7px 0px;
+}
+.numbers .number-inner h2 {
+
+    font-size: 50px;
+}
+.numbers .number-inner h6 {
+    font-size: 14px;
+}
+.numbers .number-inner {
+    padding: 4px 0px;
+    border-left: none;
+}
+.numbers .cl5 .number-inner {
+    border-right: none;
+}
+.services .heading-service h2 {
+    font-size: 30px;
+}
+.services .heading-service h1 {
+    font-size: 33px;
+}
+
+.services .cards {
+    padding: 10px 0px;
+    border-bottom: 1px solid;
+}
+.services .cards .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cards .col-md-10 h4 {
+    padding: 0px 0px;
+}
+.services .cards .col-md-10 p {
+    padding: 0px 0px;
+}
+.services .cardss .col-md-2 {
+    padding: 10px 26px;
+    text-align: left;
+}
+.services .cardss .col-md-10 h4 {
+    padding: 0px 0px;
+}
+.services .cardss .col-md-10 p {
+    padding: 0px 0px;
+}
+.unique .heading-unique h2 {
+    font-size: 30px;
+}
+.unique .heading-unique h1 {
+    font-size: 35px;
+}
+.service-heading h2 {
+    font-size: 30px;
+}
+.service-heading h1 {
+    font-size: 33px;
+}
+.service-heading p {
+    margin: 0px 5px;
+}
+.service .info-pic img {
+    width: 100%;
+    padding-bottom: 25px;
+}
+.slider {
+    padding: 27px 0px;
+    margin: 30px 0px;
+}
+.slider .slider-pic {
+    text-align: center;
+    padding-bottom: 0px;
+}
+.slider .pera p {
+    font-size: 14px;
+}
+.our-team .our-team-heading h2 {
+    font-size: 30px;
+
+}
+.our-team .our-team-heading h1 {
+    font-size: 35px;
+}
+.our-team .our-team-heading p {
+    margin: 0px 5px;
+}
+.our-team .item {
+    margin: 0px 0px;
+}
+.our-team .item .item-hover {
+    width: 100%;
+    height: 95%;
+    left: 1px;
+    top: 0px;
+}
+.work .work-heading h2 {
+    font-size: 30px;
+}
+.work .work-heading h1 {
+    font-size: 31px;
+}
+.work .work-heading p {
+    margin: 0px 5px;
+    padding-bottom: 20px;
+}
+.works .item-hover {
+    top: 0px;
+    left: 0px;
+    right: -27px;
+    bottom: 0;
+}
+.works .item-hover h6 {
+    left: 22%;
+    top: 43%;
+}
+.second-slider .slider-pic {
+    text-align: center;
+}
+.second-slider .pera p {
+    font-size: 14px;
+}
+.people .people-heading h2 {
+    font-size: 30px;
+}
+.people .people-heading h1 {
+    font-size: 33px;
+}
+.people .people-info .chobi img {
+    width: 100%;
+}
+.people .people-info .people-name p {
+    font-size: 11px;
+}
+
+.blog .blog-heading h2 {
+    font-size: 30px;
+}
+.blog .blog-heading h1 {
+    font-size: 35px;
+}
+.blog .item h1 {
+    margin: 61px 0px 0px -10px;
+    padding: 6px 11px;
+}
+.blog .blog-body h1 {
+    font-size: 16px;
+}
+.blog .blog-body p {
+    font-size: 12px;
+}
+.map {
+    height: 18vh;
+
+}
+.footer .instagram-photos {
+    padding: 0px 0px;
+    margin: 2px 0px;
+}
+
+.footer .followers .btn-light {
+    padding: 7px 16px;
+    margin: 0px -25px;
+}
+
+.footer .col-md-3 img {
+    width: 100%;
+    padding: 20px 0px;
+    text-align: -webkit-right;
+    margin: 0px 0px;
+}
+.footer .col-md-9 {
+    padding: 0px 0px 0px 0px;
+} 
+.footer .col-md-9 h4 {
+    font-size: 11px;
+    line-height: 18px;
+}
+
+}
